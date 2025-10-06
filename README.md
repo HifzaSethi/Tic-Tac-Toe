@@ -1,11 +1,11 @@
-# 🎮 Tik Tack Toe Game
+# Tik Tack Toe Game
 
 A simple and fun **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
 This game allows two players to play alternately (O and X) and displays a congratulatory message when someone wins.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Two-player mode (O and X)
 - Detects and announces the winner
@@ -15,7 +15,7 @@ This game allows two players to play alternately (O and X) and displays a congra
 
 ---
 
-## 🖥️ Technologies Used
+## Technologies Used
 
 - **HTML5** – for structure
 - **CSS3** – for styling and layout
@@ -23,7 +23,7 @@ This game allows two players to play alternately (O and X) and displays a congra
 
 ---
 
-## 🧩 How to Play
+## How to Play
 
 1. Click on any empty box to place your mark (O or X).
 2. Players take turns until one wins or all boxes are filled.
@@ -32,25 +32,25 @@ This game allows two players to play alternately (O and X) and displays a congra
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Game Preview](ScreenShot.png)
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [Play Now](https://hifzasethi.github.io/tik-tack-toe/)  
 _(Make sure GitHub Pages is enabled on the `main` branch.)_
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Hifza Sethi**  
 Frontend Developer | BS Computer Science (7th Semester)  
 📍 Peshawar, Pakistan  
-💼 [GitHub Profile](https://github.com/HifzaSethi)
+ [GitHub Profile](https://github.com/HifzaSethi)
 
 ---
 
