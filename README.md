@@ -40,8 +40,9 @@ This game allows two players to play alternately (O and X) and displays a congra
 
 ## Live Demo
 
-🔗 [Play Now](https://hifzasethi.github.io/tik-tack-toe/)  
-_(Make sure GitHub Pages is enabled on the `main` branch.)_
+## 🎮 Live Demo
+
+🔗 [Play Now](https://hifzasethi.github.io/Tic-Tac-Toe/)
 
 ---
 
