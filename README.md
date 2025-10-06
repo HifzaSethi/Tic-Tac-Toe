@@ -34,7 +34,7 @@ This game allows two players to play alternately (O and X) and displays a congra
 
 ## 📸 Screenshot
 
-![Game Preview](Screenshot.png)
+![Game Preview](ScreenShot.png)
 
 ---
 
